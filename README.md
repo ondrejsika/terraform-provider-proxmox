@@ -1,3 +1,10 @@
+# [DEPRECATED] This provider was temporar fork of [Telmate/proxmox](https://registry.terraform.io/providers/Telmate/proxmox), use that instead.
+
+This provider is a fork of [Telmate/proxmox](https://registry.terraform.io/providers/Telmate/proxmox), with some needed changes to make it available on Terraform Registry. Temporarily this was put on registry as well.
+
+Please use [Telmate/proxmox](https://registry.terraform.io/providers/Telmate/proxmox) instead.
+
+
 [![Build Status](https://travis-ci.com/Telmate/terraform-provider-proxmox.svg?branch=master)](https://travis-ci.com/Telmate/terraform-provider-proxmox)
 
 # Terraform provider plugin for Proxmox
